@@ -2,9 +2,6 @@
 
 ### ⚡ Hardware Accelerated • Deterministic • Real-Time
 
-🌐 **Live Website:**
-https://faruki-affan.github.io/High-Frequency-Trading-using-FPGA/
-
 ---
 
 ## 🧠 Overview
