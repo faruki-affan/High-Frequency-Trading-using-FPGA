@@ -2,7 +2,7 @@
 ### Hardware Accelerated • Deterministic • Real-Time
 ---
 ## Overview
-A next-generation **FPGA-based trading system** designed for ultra-fast market data processing and deterministic decision-making.
+A **FPGA-based trading system** designed for ultra-fast market data processing and deterministic decision-making.
 This project eliminates traditional software bottlenecks by moving computation directly into hardware, enabling **parallel execution and predictable latency**.
 ---
 ## System Architecture
