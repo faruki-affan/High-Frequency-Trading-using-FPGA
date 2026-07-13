@@ -1,4 +1,4 @@
-# 🚀 FPGA-Powered High-Frequency Trading Engine
+# 🚀 FPGA-Based High-Frequency Trading Engine
 ### Hardware Accelerated • Deterministic • Real-Time
 ---
 ## Overview
