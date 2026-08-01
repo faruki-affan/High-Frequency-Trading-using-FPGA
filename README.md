@@ -22,12 +22,6 @@ Market Data → UART → Parser → Order Book → Risk Engine → Decision Engi
 * Parallel processing across modules
 * Designed for low-latency trading systems
 ---
-## Current Status
-> Actively under development
-* Core pipeline implemented
-* Optimization in progress
-* Target completion: **April 2026**
----
 ## Future Improvements
 * Replace UART with **Ethernet (low-latency feeds)**
 * Integrate **PCIe / DMA acceleration**
