@@ -1,4 +1,4 @@
-# FPGA-Based High-Frequency Trading Engine
+# FPGA-Based Trading System
 ### Hardware Accelerated • Deterministic • Real-Time
 ---
 ## Overview
