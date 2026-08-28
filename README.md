@@ -35,12 +35,4 @@ Market Data → UART → Parser → Order Book → Risk Engine → Decision Engi
 * Digital Signal Processing
 * Pipelined Architecture
 ---
-## Author
-**Affan Faruki**
-🔗 https://www.linkedin.com/in/affan-faruki-b32a742a5/
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ and support the work 🚀
